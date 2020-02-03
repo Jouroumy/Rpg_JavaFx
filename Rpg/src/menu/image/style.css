@@ -1,0 +1,53 @@
+#pane{
+    -fx-background-image: url("background.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1280 720;
+    -fx-background-position: center center;
+}
+
+#game{
+    -fx-background-image: url("game.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1280 720;
+    -fx-background-position: center center;
+}
+
+#ground {
+    -fx-background-image: url("ground.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 32 32;
+}
+
+#wall {
+    -fx-background-image: url("wall.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 32 32;
+}
+
+#loose{
+    -fx-background-image: url("loose.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1280 720;
+    -fx-background-position: center center;
+}
+
+#choose{
+    -fx-background-image: url("choose.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1280 720;
+    -fx-background-position: center center;
+}
+
+#win{
+    -fx-background-image: url("win.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1280 720;
+    -fx-background-position: center center;
+}
+
+#read {
+    -fx-background-image: url("read.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1280 720;
+    -fx-background-position: center center;
+}
